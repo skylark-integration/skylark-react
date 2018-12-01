@@ -1,2 +1,2 @@
-# skylark-widget
-The skylark widget framework, support virtual dom.
+# skylark-react
+A version of react that ported to running on skylarkjs , in development
